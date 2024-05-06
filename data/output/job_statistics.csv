@@ -1,9 +1,0 @@
-ID,Type,Submit Time,Start Time,End Time,Wait Time,Makespan,Turnaround Time,Status
-0,rigid,61,61,2941,0,2880,2880,completed
-1,rigid,81,81,1521,0,1440,1440,completed
-2,rigid,159,159,1599,-8.52651e-14,1440,1440,completed
-3,rigid,186,186,1626,-1.7053e-13,1440,1440,completed
-4,rigid,373,373,1813,-3.41061e-13,1440,1440,completed
-5,rigid,400,400,1840,-3.41061e-13,1440,1440,completed
-6,rigid,631,631,2071,-4.54747e-13,1440,1440,completed
-7,rigid,686,686,2126,-5.68434e-13,1440,1440,completed
