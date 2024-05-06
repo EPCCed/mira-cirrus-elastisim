@@ -4,7 +4,7 @@
       "type": "rigid",
       "submit_time": 61,
       "num_nodes": 16,
-      "application_model": "data/input/busywait_model.json",
+      "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
       "arguments": {
         "iterations": 48,
         "base_nodes": 14
@@ -14,7 +14,7 @@
       "type": "rigid",
       "submit_time": 81,
       "num_nodes": 14,
-      "application_model": "data/input/busywait_model.json",
+      "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
       "arguments": {
         "iterations": 24,
         "base_nodes": 14
@@ -24,7 +24,7 @@
       "type": "rigid",
       "submit_time": 159,
       "num_nodes": 16,
-      "application_model": "data/input/busywait_model.json",
+      "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
       "arguments": {
         "iterations": 24,
         "base_nodes": 16
@@ -34,7 +34,7 @@
       "type": "rigid",
       "submit_time": 186,
       "num_nodes": 10,
-      "application_model": "data/input/busywait_model.json",
+      "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
       "arguments": {
         "iterations": 24,
         "base_nodes": 10
@@ -44,7 +44,7 @@
       "type": "rigid",
       "submit_time": 373,
       "num_nodes": 9,
-      "application_model": "data/input/busywait_model.json",
+      "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
       "arguments": {
         "iterations": 24,
         "base_nodes": 9
@@ -54,7 +54,7 @@
       "type": "rigid",
       "submit_time": 400,
       "num_nodes": 6,
-      "application_model": "data/input/busywait_model.json",
+      "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
       "arguments": {
         "iterations": 24,
         "base_nodes": 6
@@ -64,7 +64,7 @@
       "type": "rigid",
       "submit_time": 631,
       "num_nodes": 16,
-      "application_model": "data/input/busywait_model.json",
+      "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
       "arguments": {
         "iterations": 24,
         "base_nodes": 16
@@ -74,7 +74,7 @@
       "type": "rigid",
       "submit_time": 686,
       "num_nodes": 16,
-      "application_model": "data/input/busywait_model.json",
+      "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
       "arguments": {
         "iterations": 24,
         "base_nodes": 16

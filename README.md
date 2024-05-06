@@ -6,7 +6,7 @@ Repository for data and configuration for modelling scheduling on
 ## Models
 
 * CPU partition
-  - Simple occupancy model
+  - Simple occupancy model: `cirrus-cpu-simple`
     + System description: each ElastiSim node represents a single core to allow for shared node use
     + Application model: defined as simple runtime (`busy_wait`); runtime scales perfectly with number of cores
     + Jobs: define two properties: `iterations` runtime in minutes at base node count, `base_nodes` number of
