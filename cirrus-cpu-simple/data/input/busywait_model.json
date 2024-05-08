@@ -6,7 +6,7 @@
         {
           "type": "busy_wait",
           "name": "Run",
-          "delay": 60,
+          "delay": 1,
           "pattern": "uniform"
         }
       ]

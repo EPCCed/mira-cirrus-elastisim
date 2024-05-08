@@ -1,5 +1,5 @@
 {
-  "jobs_file": "cirrus-cpu-simple/data/input/jobs.json",
+  "jobs_file": "cirrus-cpu-simple/data/input/2024_Q1_CPU-jobs.json",
   "platform_file": "cirrus-cpu-simple/data/input/cirrus_cpu.xml",
   "zmq_url": "ipc:///tmp/elastisim.ipc",
   "schedule_on_job_submit": true,

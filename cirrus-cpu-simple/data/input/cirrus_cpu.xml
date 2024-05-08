@@ -7,7 +7,7 @@
                 <prop id="batch_system" value="true"/>
             </host>
         </zone>
-        <cluster id="Crossbar" prefix="CCPU_" radical="100-380" suffix="" speed="100Gf" bw="100Gbps" lat="50us">
+        <cluster id="Crossbar" prefix="CCPU_" radical="100-10180" suffix="" speed="100Gf" bw="100Gbps" lat="50us">
             <prop id="node_local_bb" value="false"/>
             <prop id="pfs_targets" value="PFS"/>
         </cluster>
