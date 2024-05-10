@@ -1,0 +1,5004 @@
+{
+   "jobs": [
+      {
+         "type": "rigid",
+         "submit_time": 0,
+         "num_nodes": 32,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 4320,
+            "base_nodes": 32
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 1560,
+         "num_nodes": 32,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 1009,
+            "base_nodes": 32
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 1560,
+         "num_nodes": 32,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 1022,
+            "base_nodes": 32
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 1560,
+         "num_nodes": 32,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 934,
+            "base_nodes": 32
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 1560,
+         "num_nodes": 32,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 824,
+            "base_nodes": 32
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 1560,
+         "num_nodes": 32,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 981,
+            "base_nodes": 32
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 1560,
+         "num_nodes": 32,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 1105,
+            "base_nodes": 32
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 1560,
+         "num_nodes": 32,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 1134,
+            "base_nodes": 32
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 1560,
+         "num_nodes": 32,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 1010,
+            "base_nodes": 32
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 1560,
+         "num_nodes": 32,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 1014,
+            "base_nodes": 32
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 1560,
+         "num_nodes": 32,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 1094,
+            "base_nodes": 32
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 1560,
+         "num_nodes": 32,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 1056,
+            "base_nodes": 32
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 1560,
+         "num_nodes": 32,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 905,
+            "base_nodes": 32
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 1603,
+         "num_nodes": 32,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 1072,
+            "base_nodes": 32
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 1603,
+         "num_nodes": 32,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 1023,
+            "base_nodes": 32
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 1603,
+         "num_nodes": 32,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 914,
+            "base_nodes": 32
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 1603,
+         "num_nodes": 32,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 1008,
+            "base_nodes": 32
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 1603,
+         "num_nodes": 32,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 985,
+            "base_nodes": 32
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 1603,
+         "num_nodes": 32,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 981,
+            "base_nodes": 32
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 1603,
+         "num_nodes": 32,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 1095,
+            "base_nodes": 32
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 1603,
+         "num_nodes": 32,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 1002,
+            "base_nodes": 32
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 1603,
+         "num_nodes": 32,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 950,
+            "base_nodes": 32
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 1603,
+         "num_nodes": 32,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 1037,
+            "base_nodes": 32
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 1603,
+         "num_nodes": 32,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 1017,
+            "base_nodes": 32
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 1603,
+         "num_nodes": 32,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 990,
+            "base_nodes": 32
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 1617,
+         "num_nodes": 32,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 1206,
+            "base_nodes": 32
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 1617,
+         "num_nodes": 32,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 1202,
+            "base_nodes": 32
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 1617,
+         "num_nodes": 32,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 1139,
+            "base_nodes": 32
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 1617,
+         "num_nodes": 32,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 1180,
+            "base_nodes": 32
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 1617,
+         "num_nodes": 32,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 1218,
+            "base_nodes": 32
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 1617,
+         "num_nodes": 32,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 1167,
+            "base_nodes": 32
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 1617,
+         "num_nodes": 32,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 1140,
+            "base_nodes": 32
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 1617,
+         "num_nodes": 32,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 855,
+            "base_nodes": 32
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 1617,
+         "num_nodes": 32,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 992,
+            "base_nodes": 32
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 1617,
+         "num_nodes": 32,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 1158,
+            "base_nodes": 32
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 1617,
+         "num_nodes": 32,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 1254,
+            "base_nodes": 32
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 1617,
+         "num_nodes": 32,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 1260,
+            "base_nodes": 32
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 1620,
+         "num_nodes": 32,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 999,
+            "base_nodes": 32
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 1620,
+         "num_nodes": 32,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 1399,
+            "base_nodes": 32
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 1620,
+         "num_nodes": 32,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 1427,
+            "base_nodes": 32
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 1620,
+         "num_nodes": 32,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 1451,
+            "base_nodes": 32
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 1620,
+         "num_nodes": 32,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 1200,
+            "base_nodes": 32
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 1620,
+         "num_nodes": 32,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 1246,
+            "base_nodes": 32
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 1620,
+         "num_nodes": 32,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 1344,
+            "base_nodes": 32
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 1620,
+         "num_nodes": 32,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 1273,
+            "base_nodes": 32
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 1620,
+         "num_nodes": 32,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 1106,
+            "base_nodes": 32
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 1620,
+         "num_nodes": 32,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 1211,
+            "base_nodes": 32
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 1620,
+         "num_nodes": 32,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 1231,
+            "base_nodes": 32
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 1620,
+         "num_nodes": 32,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 1322,
+            "base_nodes": 32
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 4246,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 1479,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 4246,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 1067,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 4246,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 1075,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 4247,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 586,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 4247,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 798,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 4247,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 1639,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 4249,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 1182,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 4249,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 1428,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 4249,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 1460,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 4252,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 1125,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 4252,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 1554,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 4252,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 897,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 4294,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 2880,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 4294,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 2880,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 4294,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 2880,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 4299,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 2880,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 4299,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 2880,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 4299,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 2880,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 4300,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 2880,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 4300,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 2880,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 4300,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 2880,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 4301,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 2880,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 4301,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 2880,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 4301,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 2880,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 4302,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 2880,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 4302,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 2880,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 4302,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 2880,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 4303,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 2880,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 4303,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 2880,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 4303,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 2880,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 4305,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 2397,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 4305,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 2880,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 4305,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 2880,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 4306,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 2880,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 4306,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 2880,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 4306,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 2880,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 4308,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 2880,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 4308,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 2880,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 4308,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 2880,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 4309,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 2880,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 4309,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 2880,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 4309,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 2880,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 4310,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 2880,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 4310,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 2880,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 4310,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 2880,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 4311,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 2880,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 4311,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 2880,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 4311,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 2880,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 4311,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 2880,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 4311,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 2880,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 4311,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 2880,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 5727,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 1905,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 5727,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 1769,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 5727,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 1032,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 5729,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 1469,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 5729,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 1899,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 5729,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 2080,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 5827,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 1290,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 5827,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 1443,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 5827,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 783,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 5889,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 1314,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 5889,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 853,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 5889,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 1577,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7186,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 1543,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7186,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 239,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7186,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 231,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7187,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 1507,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7187,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 1515,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7187,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 1266,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7188,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 1482,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7188,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 1167,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7188,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 1636,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7189,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 1311,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7189,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 1534,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7189,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 49,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7216,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 1556,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7216,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 1330,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7216,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 1072,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7219,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 2880,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7219,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 1917,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7219,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 1597,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7224,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 2880,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7224,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 2880,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7224,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 2880,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7227,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 2880,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7227,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 2880,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7227,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 2880,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7235,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 2880,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7235,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 2880,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7235,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 2880,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7237,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 2880,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7237,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 2880,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7237,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 2880,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7238,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 2880,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7238,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 2880,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7238,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 2880,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7270,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 2304,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7270,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 2085,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7270,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 2,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7270,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 368,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7270,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 326,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7270,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 363,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7270,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 752,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7270,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 345,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7270,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 370,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7270,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 3338,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7270,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 2252,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7270,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 178,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7270,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 4320,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7270,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 2900,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7270,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 1423,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7270,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 2881,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7270,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 469,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7270,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 1139,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7270,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 4320,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7270,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 1307,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7270,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 1567,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7270,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 227,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7270,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 962,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7270,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 60,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7270,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 4320,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7270,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 110,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7270,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 4320,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7270,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 290,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7270,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 1843,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7270,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 286,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7270,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 41,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7270,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 4320,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7270,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 77,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7270,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 428,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7270,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 4320,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7270,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 4320,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7270,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 2274,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7270,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 4320,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7270,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 4320,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7270,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 2269,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7270,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 70,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7270,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 407,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7270,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 477,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7270,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 189,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7270,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 1146,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7270,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 1028,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7270,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 265,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7270,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 237,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7270,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 2415,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7270,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 598,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7270,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 3728,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7270,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 1500,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7270,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 2605,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7270,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 2359,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7270,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 4320,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7270,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 4320,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7270,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 115,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7270,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 1014,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7270,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 4320,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7270,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 4320,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7270,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 13,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7270,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 247,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7270,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 243,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7270,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 4320,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7270,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 4320,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7270,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 4320,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7270,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 4320,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7270,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 1497,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7270,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 4320,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7270,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 413,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7270,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 597,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7270,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 1301,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7270,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 837,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7270,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 295,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7270,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 1387,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7270,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 532,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7270,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 1195,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7270,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 998,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7270,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 389,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7270,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 375,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7270,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 540,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7270,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 4320,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7270,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 3373,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7270,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 3165,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7270,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 1354,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7270,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 1653,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7270,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 1649,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7270,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 1000,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7270,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 765,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7270,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 935,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7270,
+         "num_nodes": 72,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 349,
+            "base_nodes": 72
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7270,
+         "num_nodes": 72,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 4320,
+            "base_nodes": 72
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7270,
+         "num_nodes": 72,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 4320,
+            "base_nodes": 72
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7270,
+         "num_nodes": 72,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 4320,
+            "base_nodes": 72
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7270,
+         "num_nodes": 72,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 1002,
+            "base_nodes": 72
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7270,
+         "num_nodes": 72,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 4320,
+            "base_nodes": 72
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7270,
+         "num_nodes": 72,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 4320,
+            "base_nodes": 72
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7270,
+         "num_nodes": 72,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 1897,
+            "base_nodes": 72
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7270,
+         "num_nodes": 72,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 538,
+            "base_nodes": 72
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7270,
+         "num_nodes": 72,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 666,
+            "base_nodes": 72
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7270,
+         "num_nodes": 72,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 4320,
+            "base_nodes": 72
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7270,
+         "num_nodes": 72,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 4320,
+            "base_nodes": 72
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7270,
+         "num_nodes": 72,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 2928,
+            "base_nodes": 72
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7270,
+         "num_nodes": 72,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 4320,
+            "base_nodes": 72
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7270,
+         "num_nodes": 72,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 1938,
+            "base_nodes": 72
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7270,
+         "num_nodes": 72,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 1065,
+            "base_nodes": 72
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7270,
+         "num_nodes": 72,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 4320,
+            "base_nodes": 72
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7270,
+         "num_nodes": 72,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 1366,
+            "base_nodes": 72
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7270,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 32,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7270,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 54,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7270,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 39,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7270,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 431,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7270,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 426,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7270,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 207,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7270,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 2351,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7270,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 875,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7270,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 4320,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7270,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 4320,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7270,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 1969,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7270,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 575,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7270,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 597,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7270,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 1724,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7270,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 4320,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7270,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 248,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7270,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 452,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7270,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 318,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7270,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 328,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7270,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 228,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7270,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 4320,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7270,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 169,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7270,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 1055,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7270,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 156,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7270,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 148,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7270,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 371,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7270,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 137,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7270,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 4320,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7270,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 88,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7270,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 175,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7270,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 4320,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7325,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 1020,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7325,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 810,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7325,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 760,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7351,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 162,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7351,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 2293,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7351,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 741,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7355,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 1520,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7355,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 1541,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7355,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 2880,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7356,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 788,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7356,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 727,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7356,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 942,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7491,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 1387,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7491,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 1169,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7491,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 2865,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7497,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 30,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7497,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 1674,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7497,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 1212,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7498,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 2196,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7498,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 1491,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7498,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 1523,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7503,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 1417,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7503,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 2880,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7503,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 1065,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7503,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 164,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7503,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 1067,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7503,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 2880,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7504,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 1586,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7504,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 2025,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7504,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 2072,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7507,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 2880,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7507,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 2880,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7507,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 2880,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7507,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 2880,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7507,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 2880,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 7507,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 2880,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 8568,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 2455,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 8568,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 1438,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 8568,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 899,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 8570,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 175,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 8570,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 1440,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 8570,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 822,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 8635,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 2880,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 8635,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 2880,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 8636,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 2880,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 8636,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 2880,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 8636,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 2880,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 8636,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 2880,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 8636,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 2880,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 8636,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 2880,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 8637,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 2880,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 8637,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 2880,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 8637,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 2880,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 8638,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 823,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 8638,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 2880,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 8638,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 2880,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 8745,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 88,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 8745,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 50,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 8745,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 41,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 8745,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 16,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 8745,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 2,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 8745,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 1,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 8751,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 2576,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 8751,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 248,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 8751,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 154,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 8752,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 2880,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 8752,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 2015,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 8752,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 1567,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 8752,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 1029,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 8752,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 1716,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 8752,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 226,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 8778,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 2046,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 8778,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 827,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 8778,
+         "num_nodes": 36,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 1137,
+            "base_nodes": 36
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 8822,
+         "num_nodes": 1,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 4,
+            "base_nodes": 1
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 8822,
+         "num_nodes": 1,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 3,
+            "base_nodes": 1
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 8822,
+         "num_nodes": 1,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 73,
+            "base_nodes": 1
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 8822,
+         "num_nodes": 1,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 3,
+            "base_nodes": 1
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 8822,
+         "num_nodes": 1,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 9,
+            "base_nodes": 1
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 8822,
+         "num_nodes": 1,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 6,
+            "base_nodes": 1
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 8822,
+         "num_nodes": 1,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 3,
+            "base_nodes": 1
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 8822,
+         "num_nodes": 1,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 9,
+            "base_nodes": 1
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 8822,
+         "num_nodes": 1,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 5,
+            "base_nodes": 1
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 8822,
+         "num_nodes": 1,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 6,
+            "base_nodes": 1
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 8822,
+         "num_nodes": 1,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 3,
+            "base_nodes": 1
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 8822,
+         "num_nodes": 1,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 3,
+            "base_nodes": 1
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 8822,
+         "num_nodes": 1,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 6,
+            "base_nodes": 1
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 8822,
+         "num_nodes": 1,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 73,
+            "base_nodes": 1
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 8822,
+         "num_nodes": 1,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 73,
+            "base_nodes": 1
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 8822,
+         "num_nodes": 1,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 2,
+            "base_nodes": 1
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 8822,
+         "num_nodes": 1,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 3,
+            "base_nodes": 1
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 8822,
+         "num_nodes": 1,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 3,
+            "base_nodes": 1
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 8822,
+         "num_nodes": 1,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 8,
+            "base_nodes": 1
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 8822,
+         "num_nodes": 1,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 10,
+            "base_nodes": 1
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 8822,
+         "num_nodes": 1,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 3,
+            "base_nodes": 1
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 8822,
+         "num_nodes": 1,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 3,
+            "base_nodes": 1
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 8822,
+         "num_nodes": 1,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 3,
+            "base_nodes": 1
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 8822,
+         "num_nodes": 1,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 6,
+            "base_nodes": 1
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 8822,
+         "num_nodes": 1,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 5,
+            "base_nodes": 1
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 8822,
+         "num_nodes": 1,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 73,
+            "base_nodes": 1
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 8822,
+         "num_nodes": 1,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 11,
+            "base_nodes": 1
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 8822,
+         "num_nodes": 1,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 3,
+            "base_nodes": 1
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 8822,
+         "num_nodes": 1,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 6,
+            "base_nodes": 1
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 8822,
+         "num_nodes": 1,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 3,
+            "base_nodes": 1
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 8822,
+         "num_nodes": 1,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 13,
+            "base_nodes": 1
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 8822,
+         "num_nodes": 1,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 13,
+            "base_nodes": 1
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 8822,
+         "num_nodes": 1,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 14,
+            "base_nodes": 1
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 8822,
+         "num_nodes": 1,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 15,
+            "base_nodes": 1
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 8822,
+         "num_nodes": 1,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 15,
+            "base_nodes": 1
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 8822,
+         "num_nodes": 1,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 13,
+            "base_nodes": 1
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 8822,
+         "num_nodes": 1,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 73,
+            "base_nodes": 1
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 8822,
+         "num_nodes": 1,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 15,
+            "base_nodes": 1
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 8822,
+         "num_nodes": 1,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 15,
+            "base_nodes": 1
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 8822,
+         "num_nodes": 1,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 15,
+            "base_nodes": 1
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 8822,
+         "num_nodes": 1,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 15,
+            "base_nodes": 1
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 8822,
+         "num_nodes": 1,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 14,
+            "base_nodes": 1
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 8822,
+         "num_nodes": 1,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 14,
+            "base_nodes": 1
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 8822,
+         "num_nodes": 1,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 15,
+            "base_nodes": 1
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 8822,
+         "num_nodes": 1,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 14,
+            "base_nodes": 1
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 8822,
+         "num_nodes": 1,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 14,
+            "base_nodes": 1
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 8822,
+         "num_nodes": 1,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 14,
+            "base_nodes": 1
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 8822,
+         "num_nodes": 1,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 73,
+            "base_nodes": 1
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 8822,
+         "num_nodes": 1,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 14,
+            "base_nodes": 1
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 8822,
+         "num_nodes": 1,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 14,
+            "base_nodes": 1
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 8822,
+         "num_nodes": 1,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 15,
+            "base_nodes": 1
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 8822,
+         "num_nodes": 1,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 14,
+            "base_nodes": 1
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 8822,
+         "num_nodes": 1,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 13,
+            "base_nodes": 1
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 8822,
+         "num_nodes": 1,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 15,
+            "base_nodes": 1
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 8822,
+         "num_nodes": 1,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 15,
+            "base_nodes": 1
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 8822,
+         "num_nodes": 1,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 14,
+            "base_nodes": 1
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 8822,
+         "num_nodes": 1,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 14,
+            "base_nodes": 1
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 8822,
+         "num_nodes": 1,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 14,
+            "base_nodes": 1
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 8822,
+         "num_nodes": 1,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 73,
+            "base_nodes": 1
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 8822,
+         "num_nodes": 1,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 14,
+            "base_nodes": 1
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 8822,
+         "num_nodes": 1,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 14,
+            "base_nodes": 1
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 8822,
+         "num_nodes": 1,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 14,
+            "base_nodes": 1
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 8822,
+         "num_nodes": 1,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 14,
+            "base_nodes": 1
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 8822,
+         "num_nodes": 1,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 14,
+            "base_nodes": 1
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 8822,
+         "num_nodes": 1,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 14,
+            "base_nodes": 1
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 8822,
+         "num_nodes": 1,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 14,
+            "base_nodes": 1
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 8822,
+         "num_nodes": 1,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 14,
+            "base_nodes": 1
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 8822,
+         "num_nodes": 1,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 14,
+            "base_nodes": 1
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 8822,
+         "num_nodes": 1,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 11,
+            "base_nodes": 1
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 8822,
+         "num_nodes": 1,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 73,
+            "base_nodes": 1
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 8822,
+         "num_nodes": 1,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 14,
+            "base_nodes": 1
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 8822,
+         "num_nodes": 1,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 14,
+            "base_nodes": 1
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 8822,
+         "num_nodes": 1,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 14,
+            "base_nodes": 1
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 8822,
+         "num_nodes": 1,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 15,
+            "base_nodes": 1
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 8822,
+         "num_nodes": 1,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 14,
+            "base_nodes": 1
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 8822,
+         "num_nodes": 1,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 13,
+            "base_nodes": 1
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 8822,
+         "num_nodes": 1,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 14,
+            "base_nodes": 1
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 8822,
+         "num_nodes": 1,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 14,
+            "base_nodes": 1
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 8822,
+         "num_nodes": 1,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 14,
+            "base_nodes": 1
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 8822,
+         "num_nodes": 1,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 14,
+            "base_nodes": 1
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 8822,
+         "num_nodes": 1,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 73,
+            "base_nodes": 1
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 8822,
+         "num_nodes": 1,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 14,
+            "base_nodes": 1
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 8822,
+         "num_nodes": 1,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 14,
+            "base_nodes": 1
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 8822,
+         "num_nodes": 1,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 14,
+            "base_nodes": 1
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 8822,
+         "num_nodes": 1,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 14,
+            "base_nodes": 1
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 8822,
+         "num_nodes": 1,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 3,
+            "base_nodes": 1
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 8822,
+         "num_nodes": 1,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 3,
+            "base_nodes": 1
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 8822,
+         "num_nodes": 1,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 3,
+            "base_nodes": 1
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 8822,
+         "num_nodes": 1,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 3,
+            "base_nodes": 1
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 8822,
+         "num_nodes": 1,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 3,
+            "base_nodes": 1
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 8822,
+         "num_nodes": 1,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 3,
+            "base_nodes": 1
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 8822,
+         "num_nodes": 1,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 73,
+            "base_nodes": 1
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 8822,
+         "num_nodes": 1,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 3,
+            "base_nodes": 1
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 8822,
+         "num_nodes": 1,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 3,
+            "base_nodes": 1
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 8822,
+         "num_nodes": 1,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 3,
+            "base_nodes": 1
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 8822,
+         "num_nodes": 1,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 3,
+            "base_nodes": 1
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 8822,
+         "num_nodes": 1,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 3,
+            "base_nodes": 1
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 8822,
+         "num_nodes": 1,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 3,
+            "base_nodes": 1
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 8822,
+         "num_nodes": 1,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 3,
+            "base_nodes": 1
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 8822,
+         "num_nodes": 1,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 3,
+            "base_nodes": 1
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 8822,
+         "num_nodes": 1,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 3,
+            "base_nodes": 1
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 8822,
+         "num_nodes": 1,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 3,
+            "base_nodes": 1
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 8822,
+         "num_nodes": 1,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 73,
+            "base_nodes": 1
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 8822,
+         "num_nodes": 1,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 3,
+            "base_nodes": 1
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 8822,
+         "num_nodes": 1,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 3,
+            "base_nodes": 1
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 8822,
+         "num_nodes": 1,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 3,
+            "base_nodes": 1
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 8822,
+         "num_nodes": 1,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 3,
+            "base_nodes": 1
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 8822,
+         "num_nodes": 1,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 3,
+            "base_nodes": 1
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 8822,
+         "num_nodes": 1,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 3,
+            "base_nodes": 1
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 8822,
+         "num_nodes": 1,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 3,
+            "base_nodes": 1
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 8822,
+         "num_nodes": 1,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 3,
+            "base_nodes": 1
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 8822,
+         "num_nodes": 1,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 3,
+            "base_nodes": 1
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 8822,
+         "num_nodes": 1,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 73,
+            "base_nodes": 1
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 8822,
+         "num_nodes": 1,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 73,
+            "base_nodes": 1
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 8822,
+         "num_nodes": 1,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 73,
+            "base_nodes": 1
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 8822,
+         "num_nodes": 1,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 73,
+            "base_nodes": 1
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 8822,
+         "num_nodes": 1,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 73,
+            "base_nodes": 1
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 8822,
+         "num_nodes": 1,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 73,
+            "base_nodes": 1
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 8822,
+         "num_nodes": 1,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 73,
+            "base_nodes": 1
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 8822,
+         "num_nodes": 1,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 4,
+            "base_nodes": 1
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 8822,
+         "num_nodes": 1,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 4,
+            "base_nodes": 1
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 8822,
+         "num_nodes": 1,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 4,
+            "base_nodes": 1
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 8822,
+         "num_nodes": 1,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 4,
+            "base_nodes": 1
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 8822,
+         "num_nodes": 1,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 4,
+            "base_nodes": 1
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 8822,
+         "num_nodes": 1,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 4,
+            "base_nodes": 1
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 8822,
+         "num_nodes": 1,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 73,
+            "base_nodes": 1
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 8822,
+         "num_nodes": 1,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 4,
+            "base_nodes": 1
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 8822,
+         "num_nodes": 1,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 4,
+            "base_nodes": 1
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 8822,
+         "num_nodes": 1,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 4,
+            "base_nodes": 1
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 8822,
+         "num_nodes": 1,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 4,
+            "base_nodes": 1
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 8822,
+         "num_nodes": 1,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 4,
+            "base_nodes": 1
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 8822,
+         "num_nodes": 1,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 4,
+            "base_nodes": 1
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 8822,
+         "num_nodes": 1,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 4,
+            "base_nodes": 1
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 8822,
+         "num_nodes": 1,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 4,
+            "base_nodes": 1
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 8822,
+         "num_nodes": 1,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 4,
+            "base_nodes": 1
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 8822,
+         "num_nodes": 1,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 4,
+            "base_nodes": 1
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 8822,
+         "num_nodes": 1,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 73,
+            "base_nodes": 1
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 8822,
+         "num_nodes": 1,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 4,
+            "base_nodes": 1
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 8822,
+         "num_nodes": 1,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 4,
+            "base_nodes": 1
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 8822,
+         "num_nodes": 1,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 4,
+            "base_nodes": 1
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 8822,
+         "num_nodes": 1,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 4,
+            "base_nodes": 1
+         }
+      },
+      {
+         "type": "rigid",
+         "submit_time": 8822,
+         "num_nodes": 1,
+         "application_model": "cirrus-cpu-simple/data/input/busywait_model.json",
+         "arguments": {
+            "iterations": 4,
+            "base_nodes": 1
+         }
+      }
+   ]
+}
