@@ -10,7 +10,7 @@
   "allow_oversubscription": false,
   "clip_evolving_requests": true,
   "forward_io_information": true,
-  "sensing": true,
+  "sensing": false,
   "sensing_interval": 1,
   "log_task_times": true,
   "pfs_read_links": ["PFS_read"],
