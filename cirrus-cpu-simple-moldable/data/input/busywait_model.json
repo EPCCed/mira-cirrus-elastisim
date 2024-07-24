@@ -1,0 +1,15 @@
+{
+  "phases": [
+    {
+      "iterations": "iterations*(num_nodes/base_nodes)",
+      "tasks": [
+        {
+          "type": "busy_wait",
+          "name": "Run",
+          "delay": 1,
+          "pattern": "uniform"
+        }
+      ]
+    }
+  ]
+}
