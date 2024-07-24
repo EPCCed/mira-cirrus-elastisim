@@ -1,6 +1,6 @@
 {
-  "jobs_file": "cirrus-cpu-simple-rigid/data/input/2024_Q1_CPU-jobs.json",
-  "platform_file": "cirrus-cpu-simple-rigid/data/input/cirrus_cpu.xml",
+  "jobs_file": "/data/input/jobs.json",
+  "platform_file": "/data/input/cirrus_cpu.xml",
   "zmq_url": "ipc:///tmp/elastisim.ipc",
   "schedule_on_job_submit": true,
   "schedule_on_job_finalize": true,
@@ -15,11 +15,11 @@
   "log_task_times": true,
   "pfs_read_links": ["PFS_read"],
   "pfs_write_links": ["PFS_write"],
-  "job_statistics": "cirrus-cpu-simple-rigid/data/output/job_statistics.csv",
-  "cpu_utilization": "cirrus-cpu-simple-rigid/data/output/cpu_utilization.csv",
-  "node_utilization": "cirrus-cpu-simple-rigid/data/output/node_utilization.csv",
-  "network_activity": "cirrus-cpu-simple-rigid/data/output/network_activity.csv",
-  "pfs_utilization": "cirrus-cpu-simple-rigid/data/output/pfs_utilization.csv",
-  "gpu_utilization": "cirrus-cpu-simple-rigid/data/output/gpu_utilization.csv",
-  "task_times": "cirrus-cpu-simple-rigid/data/output/task_times.csv"
+  "job_statistics": "/data/output/job_statistics.csv",
+  "cpu_utilization": "/data/output/cpu_utilization.csv",
+  "node_utilization": "/data/output/node_utilization.csv",
+  "network_activity": "/data/output/network_activity.csv",
+  "pfs_utilization": "/data/output/pfs_utilization.csv",
+  "gpu_utilization": "/data/output/gpu_utilization.csv",
+  "task_times": "/data/output/task_times.csv"
 }
