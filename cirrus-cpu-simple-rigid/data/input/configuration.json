@@ -11,7 +11,7 @@
   "clip_evolving_requests": true,
   "forward_io_information": true,
   "sensing": false,
-  "sensing_interval": 1,
+  "sensing_interval": 1000,
   "log_task_times": true,
   "pfs_read_links": ["PFS_read"],
   "pfs_write_links": ["PFS_write"],
