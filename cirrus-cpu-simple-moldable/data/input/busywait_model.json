@@ -1,7 +1,7 @@
 {
   "phases": [
     {
-      "iterations": "iterations*(num_nodes/base_nodes)",
+      "iterations": "iterations*(num_nodes/(2*base_nodes))",
       "tasks": [
         {
           "type": "busy_wait",
