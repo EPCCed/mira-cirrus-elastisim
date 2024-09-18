@@ -3,7 +3,7 @@
 model=$1
 
 # Cleanup
-rm -f $PWD/$model/data/output/*.csv
+# rm -f $PWD/$model/data/output/*.csv
 
 docker run -v $PWD/$model/data:/data -v $PWD/algorithm:/algorithm --name $model --detach elastisim /data/input/configuration.json --log=root.thresh:warning 
 sleep 20
