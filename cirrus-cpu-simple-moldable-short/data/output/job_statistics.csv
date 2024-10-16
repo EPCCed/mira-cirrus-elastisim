@@ -1,0 +1,10 @@
+ID,Type,Submit Time,Start Time,End Time,Wait Time,Makespan,Turnaround Time,Status
+0,moldable,0,0,711.5,0,711.5,711.5,completed
+1,moldable,715,715,939,0,224,224,completed
+2,moldable,715,715,951,0,236,236,completed
+3,moldable,715,715,925,0,210,210,completed
+4,moldable,1698,1698,2437,0,739,739,completed
+5,moldable,2423,2423,3719,0,1296,1296,completed
+6,moldable,3359,3359,3661.5,0,302.5,302.5,completed
+7,moldable,3359,3359,3665.5,0,306.5,306.5,completed
+8,moldable,3359,3359,3639,0,280,280,completed
