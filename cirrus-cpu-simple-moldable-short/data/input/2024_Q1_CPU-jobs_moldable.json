@@ -1,0 +1,112 @@
+{
+   "jobs": [
+      {
+         "type": "moldable",
+         "submit_time": 0,
+         "num_nodes_min": 378,
+         "num_nodes_max": 1512,
+         "application_model": "/data/input/busywait_model.json",
+         "arguments": {
+            "nstep": 1423,
+            "base_nodes": 756,
+            "jobid": "5312341"
+         }
+      },
+      {
+         "type": "moldable",
+         "submit_time": 715,
+         "num_nodes_min": 288,
+         "num_nodes_max": 1152,
+         "application_model": "/data/input/busywait_model.json",
+         "arguments": {
+            "nstep": 448,
+            "base_nodes": 576,
+            "jobid": "5312508"
+         }
+      },
+      {
+         "type": "moldable",
+         "submit_time": 715,
+         "num_nodes_min": 288,
+         "num_nodes_max": 1152,
+         "application_model": "/data/input/busywait_model.json",
+         "arguments": {
+            "nstep": 472,
+            "base_nodes": 576,
+            "jobid": "5312509"
+         }
+      },
+      {
+         "type": "moldable",
+         "submit_time": 715,
+         "num_nodes_min": 288,
+         "num_nodes_max": 1152,
+         "application_model": "/data/input/busywait_model.json",
+         "arguments": {
+            "nstep": 420,
+            "base_nodes": 576,
+            "jobid": "5312510"
+         }
+      },
+      {
+         "type": "moldable",
+         "submit_time": 1698,
+         "num_nodes_min": 378,
+         "num_nodes_max": 1512,
+         "application_model": "/data/input/busywait_model.json",
+         "arguments": {
+            "nstep": 1478,
+            "base_nodes": 756,
+            "jobid": "5312766"
+         }
+      },
+      {
+         "type": "moldable",
+         "submit_time": 2423,
+         "num_nodes_min": 16,
+         "num_nodes_max": 64,
+         "application_model": "/data/input/busywait_model.json",
+         "arguments": {
+            "nstep": 2592,
+            "base_nodes": 32,
+            "jobid": "5312850_12"
+         }
+      },
+      {
+         "type": "moldable",
+         "submit_time": 3359,
+         "num_nodes_min": 16,
+         "num_nodes_max": 64,
+         "application_model": "/data/input/busywait_model.json",
+         "arguments": {
+            "nstep": 605,
+            "base_nodes": 32,
+            "jobid": "5313029_10"
+         }
+      },
+      {
+         "type": "moldable",
+         "submit_time": 3359,
+         "num_nodes_min": 16,
+         "num_nodes_max": 64,
+         "application_model": "/data/input/busywait_model.json",
+         "arguments": {
+            "nstep": 613,
+            "base_nodes": 32,
+            "jobid": "5313029_11"
+         }
+      },
+      {
+         "type": "moldable",
+         "submit_time": 3359,
+         "num_nodes_min": 16,
+         "num_nodes_max": 64,
+         "application_model": "/data/input/busywait_model.json",
+         "arguments": {
+            "nstep": 560,
+            "base_nodes": 32,
+            "jobid": "5313029_12"
+         }
+      }
+   ]
+}

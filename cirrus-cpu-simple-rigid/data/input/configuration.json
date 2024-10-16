@@ -12,7 +12,7 @@
   "forward_io_information": true,
   "sensing": false,
   "sensing_interval": 1000,
-  "log_task_times": true,
+  "log_task_times": false,
   "pfs_read_links": ["PFS_read"],
   "pfs_write_links": ["PFS_write"],
   "job_statistics": "/data/output/job_statistics.csv",
@@ -20,6 +20,5 @@
   "node_utilization": "/data/output/node_utilization.csv",
   "network_activity": "/data/output/network_activity.csv",
   "pfs_utilization": "/data/output/pfs_utilization.csv",
-  "gpu_utilization": "/data/output/gpu_utilization.csv",
-  "task_times": "/data/output/task_times.csv"
+  "gpu_utilization": "/data/output/gpu_utilization.csv"
 }
