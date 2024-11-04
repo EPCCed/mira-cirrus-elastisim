@@ -1,0 +1,21 @@
+{
+    "Cirrus-CPU-R_ARCHER2-R": {
+        "nJobStart": 9703,
+        "minLoad": "12123",
+        "maxLoad": "13248",
+        "medianLoad": "13212",
+        "meanLoad": "13170",
+        "usageIncluded": 65857.23944444445,
+        "usageExcluded": 46199313.0875,
+        "usageFraction": 0.9942216099704777,
+        "residualWork": 52845.41805555556,
+        "minWait": 735.0,
+        "medianWait": 4093.0,
+        "maxWait": 5418.0,
+        "meanWait": 3925.300834793363,
+        "minTurnaroundTime": 1167.0,
+        "medianTurnaroundTime": 4219.0,
+        "maxTurnaroundTime": 31142.0,
+        "meanTurnaroundTime": 4285.789652684737
+    }
+}

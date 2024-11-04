@@ -18,7 +18,6 @@ parser = argparse.ArgumentParser(description='Analyse results of Elastisim sched
 parser.add_argument('-p', dest='prefix', type=str, action='store', default='elastisim', help='Prefix to use for output files. Default: "elastisim"')
 parser.add_argument('-d', dest='datadir', type=str, action='store', default=".", help='Directory containing output files from Elastisim simulation. Output files must be called "node_utilization.csv" and "job_statistics.csv". Default: current directory.')
 parser.add_argument('-i', dest='inputjson', type=str, action='store', default=None, required=True, help='Elastisim input JSON job list file. No default.')
-parser.add_argument('-n', dest='name', type=str, action='store', default='elastisim', help='Name/label to use for statistics set. Default: "elastisim"')
 args = parser.parse_args()
 
 # Setup the file names
@@ -36,9 +35,6 @@ csvreader = csv.DictReader(csvfile)
 jobList = []
 for row in csvreader:
     jobList.append(row)
-
-print(jobList[0])
-print(jobList[-1])
 
 jsonfile = open(jsonInputName, 'r')
 jobDict = json.load(jsonfile)
@@ -80,9 +76,6 @@ job_df['Makespan'] = job_df['Makespan'].astype(float)
 job_df['Coreh'] = job_df['Makespan'] * job_df['Nodes'] / 3600.0
 job_df['Turnaround Time'] = job_df['Turnaround Time'].astype(float)
 job_df['Efficiency'] = job_df['Makespan'] / job_df['Turnaround Time']
-print(job_df)
-
-print(job_df['Coreh'].sum())
 
 nrigid = len(job_df.loc[job_df['Nodes'] == job_df['BaseNodes']])
 nmoldable = len(job_df.loc[job_df['Nodes'] != job_df['BaseNodes']])
@@ -90,6 +83,7 @@ nlarger = len(job_df.loc[job_df['Nodes'] > job_df['BaseNodes']])
 nsmaller = len(job_df.loc[job_df['Nodes'] < job_df['BaseNodes']])
 ntot = len(job_df)
 
+print(f"\n\nMoldability statistics (full dataset):")
 print(f'Number of jobs at original size = {nrigid}/{ntot} ({100*nrigid/ntot:.2f}%)')
 print(f'Number of jobs molded = {nmoldable}/{ntot} ({100*nmoldable/ntot:.2f}%)')
 print(f'Number of jobs larger = {nlarger}/{ntot} ({100*nlarger/ntot:.2f}%)')
@@ -148,7 +142,8 @@ stats = {}
 
 stats['nJobStart'] = sum((job_df['Start Time'] >= timeLower) & (job_df['Start Time'] <= timeUpper))
 
-print(f"\n\nJob data:")
+print(f"\n\nSimulation statistics (analysis period):")
+print(f"\nJob data:")
 print(f"    nJobs = {stats['nJobStart']}")
 
 stats['minLoad'] = min(load_a[timeLower:timeUpper+1])
@@ -187,13 +182,13 @@ stats['medianTurnaroundTime'] = slice_df['Turnaround Time'].median()
 stats['maxTurnaroundTime'] = slice_df['Turnaround Time'].max()
 stats['meanTurnaroundTime'] = slice_df['Turnaround Time'].mean()
 
-print(f"\nTotal job time statistics:")
+print(f"\nTurnaround time statistics:")
 print(f"    min = {stats['minTurnaroundTime']}")
 print(f" median = {stats['medianTurnaroundTime']}")
 print(f"    max = {stats['maxTurnaroundTime']}")
 print(f"   mean = {stats['meanTurnaroundTime']}")
 
 stats_d = {}
-stats_d[args.name] = stats
+stats_d[args.prefix] = stats
 jsonout = open(statsJSON, 'w')
 json.dump(stats_d, jsonout, indent=4, default=str)

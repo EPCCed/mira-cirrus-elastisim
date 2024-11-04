@@ -1,0 +1,21 @@
+{
+    "Cirrus-CPU-M": {
+        "nJobStart": 10742,
+        "minLoad": "2664",
+        "maxLoad": "13248",
+        "medianLoad": "11892",
+        "meanLoad": "10605",
+        "usageIncluded": 53028.59111111111,
+        "usageExcluded": 16106605.212777779,
+        "usageFraction": 0.8005524020397209,
+        "residualWork": 7738.5725,
+        "minWait": -8.36735e-11,
+        "medianWait": 68.0604,
+        "maxWait": 988.0,
+        "meanWait": 127.71315737084326,
+        "minTurnaroundTime": 0.5,
+        "medianTurnaroundTime": 146.89499999999998,
+        "maxTurnaroundTime": 12615.5,
+        "meanTurnaroundTime": 336.99448259932973
+    }
+}
