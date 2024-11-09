@@ -16,56 +16,26 @@ timeUpper= 23000 # End time of analysis window
 # Parse command line arguments
 parser = argparse.ArgumentParser(description='Analyse results of Elastisim scheduler simulation.')
 parser.add_argument('-p', dest='prefix', type=str, action='store', default='elastisim', help='Prefix to use for output files. Default: "elastisim"')
-parser.add_argument('-d', dest='datadir', type=str, action='store', default=".", help='Directory containing output files from Elastisim simulation. Output files must be called "node_utilization.csv" and "job_statistics.csv". Default: current directory.')
-parser.add_argument('-i', dest='inputjson', type=str, action='store', default=None, required=True, help='Elastisim input JSON job list file. No default.')
+parser.add_argument('-d', dest='datadir', type=str, action='store', default=".", help='Directory containing output files from Elastisim simulation. Output file must be called "job_statistics.csv". Default: current directory.')
 args = parser.parse_args()
 
 # Setup the file names
-jsonInputName = args.inputjson
 csvJobStatsName = f'{args.datadir}/job_statistics.csv'
-csvNodeUtilizationName = f'{args.datadir}/node_utilization.csv'
 
-usagePlotFile = f'{args.prefix}_simulated_load.png'
-usagePlotFilePeriod = f'{args.prefix}_simulated_load_period.png'
-statsJSON = f'{args.prefix}_simulation_stats.json'
+usagePlotFile = f'{args.prefix}_measured_load.png'
+usagePlotFilePeriod = f'{args.prefix}_measured_load_period.png'
+statsJSON = f'{args.prefix}_measured_stats.json'
 
 csvfile = open(csvJobStatsName, 'r')
 
 csvreader = csv.DictReader(csvfile)
 jobList = []
+maxtime = 0
 for row in csvreader:
     jobList.append(row)
-
-jsonfile = open(jsonInputName, 'r')
-jobDict = json.load(jsonfile)
-i = 0
-maxtime = 0
-totuse = 0
-jobidList = []
-for job in jobDict['jobs']:
-    jobidList.append(job['arguments']['jobid'])
-    jobList[i]['JobID'] = job['arguments']['jobid']
-    jobList[i]['BaseNodes'] = int(job['arguments']['base_nodes'])
-    if job['type'] == 'moldable':
-        jobList[i]['MinNodes'] = int(job['num_nodes_min'])
-        jobList[i]['MaxNodes'] = int(job['num_nodes_max'])
-    else:
-        jobList[i]['MinNodes'] = int(job['num_nodes'])
-        jobList[i]['MaxNodes'] = int(job['num_nodes'])
-    i += 1
-
-nodedata_df = pd.read_csv(csvNodeUtilizationName)
-nodedata_df['Count'] = 1
-nodedata_df.tail()
-
-nodecount_grouped = nodedata_df.loc[nodedata_df['State'] == 'allocated'].groupby(by='Running jobs', sort=False)['Running jobs'].count()
-
-for i, job in enumerate(jobList):
-    cores = nodecount_grouped.iloc[i]
-    jobList[i]['Nodes'] = cores
-    totuse = totuse + float(jobList[i]['Makespan']) * jobList[i]['Nodes']
-    if float(jobList[i]['End Time']) > maxtime:
-        maxtime = math.ceil(float(jobList[i]['End Time']))
+    endtime = int(row['End Time'])
+    if endtime > maxtime:
+        maxtime = endtime
 
 job_df = pd.DataFrame(jobList)
 job_df['Start Time'] = job_df['Start Time'].astype(float)
@@ -77,21 +47,7 @@ job_df['Coreh'] = job_df['Makespan'] * job_df['Nodes'] / 3600.0
 job_df['Turnaround Time'] = job_df['Turnaround Time'].astype(float)
 job_df['Efficiency'] = job_df['Makespan'] / job_df['Turnaround Time']
 
-nrigid = len(job_df.loc[job_df['Nodes'] == job_df['BaseNodes']])
-nmoldable = len(job_df.loc[job_df['Nodes'] != job_df['BaseNodes']])
-nlarger = len(job_df.loc[job_df['Nodes'] > job_df['BaseNodes']])
-nsmaller = len(job_df.loc[job_df['Nodes'] < job_df['BaseNodes']])
-ntot = len(job_df)
-
-print(f"\n\nMoldability statistics (full dataset):")
-print(f'Number of jobs at original size = {nrigid}/{ntot} ({100*nrigid/ntot:.2f}%)')
-print(f'Number of jobs molded = {nmoldable}/{ntot} ({100*nmoldable/ntot:.2f}%)')
-print(f'Number of jobs larger = {nlarger}/{ntot} ({100*nlarger/ntot:.2f}%)')
-print(f'Number of jobs smaller = {nsmaller}/{ntot} ({100*nsmaller/ntot:.2f}%)')
-
 load_a = np.zeros(maxtime+1, dtype=int)
-load_cirrus_a = np.zeros(maxtime+1, dtype=int)
-load_archer2_a = np.zeros(maxtime+1, dtype=int)
 for job in jobList:
     temp_a = np.zeros(maxtime+1, dtype=int)
     istart = math.floor(float(job['Start Time']))
@@ -99,10 +55,6 @@ for job in jobList:
     nodes = int(job['Nodes'])
     temp_a[istart:iend] = nodes
     load_a = load_a + temp_a
-    if "ar2" in job['JobID']:
-        load_archer2_a = load_archer2_a + temp_a
-    else:
-        load_cirrus_a = load_cirrus_a + temp_a
 
 # With the moldable jobs, start and end times can be fractional
 # This means that when they are floor'd and ceil'd you can end
@@ -110,28 +62,20 @@ for job in jobList:
 # Rather than doing something intelligent, we clip the array so it is
 # in the correct range
 load_a = np.clip(load_a, a_min=0, a_max=nCoreTot)
-load_archer2_a = np.clip(load_archer2_a, a_min=0, a_max=nCoreTot)
-load_cirrus_a = np.clip(load_cirrus_a, a_min=0, a_max=nCoreTot)
 
 plt.figure(figsize=(15, 5))
 plt.plot(load_a, label='Overall')
-plt.plot(load_cirrus_a, label='Cirrus')
-plt.plot(load_archer2_a, label='ARCHER2')
 plt.xlabel("Time")
 plt.ylabel("Cores in use")
-plt.legend()
 sns.despine()
 plt.savefig(usagePlotFile, dpi=300, bbox_inches='tight')
 
 # Reduced analysis period
 plt.figure(figsize=(15, 5))
 plt.plot(load_a, label='Overall')
-plt.plot(load_cirrus_a, label='Cirrus')
-plt.plot(load_archer2_a, label='ARCHER2')
 plt.xlabel("Time")
 plt.ylabel("Cores in use")
 plt.xlim([timeLower, timeUpper])
-plt.legend()
 sns.despine()
 plt.savefig(usagePlotFilePeriod, dpi=300, bbox_inches='tight')
 
